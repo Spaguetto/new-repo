@@ -1,8 +1,9 @@
-# FILEPATH
+# Instruccions de uso
 
-"""
-This repository is a practical exercise for learning Pull Requests.
-"""
+Hola! para trabajar en este proyecto queremos que hagas una nueva rama , agregues un file con tu nombre y hagas un cambio
 
-# Rest of the code...
+Entonces, nosotros haremos un merge a tu pull request
+
+# Paso a paso.
+
 
