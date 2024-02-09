@@ -46,11 +46,11 @@ Esta guía te proporcionará los pasos necesarios para utilizar Git en Visual St
 
 7. Para crear una nueva rama basada en tus cambios, selecciona la opción "Create a new branch and start typing to give it a name" (Crear una nueva rama y comienza a escribir para darle un nombre).
 
-   ![Paso 7](imagenes/paso7.png)
+   
 
 8. Ingresa el nombre para tu nueva rama y presiona Enter.
 
-   ![Paso 8](imagenes/paso8.png)
+   
 
 ## Crear un Pull Request
 
