@@ -3,3 +3,6 @@
 
 console.log('Saludos del profe!');
 
+// cristhian quna 
+
+console.log("Estudiante de desarrollo de software");
