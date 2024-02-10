@@ -4,7 +4,9 @@ Esta guía te proporcionará los pasos necesarios para utilizar Git en Visual St
 
 ## Crear una Nueva Rama
 
+
 1. Abre Visual Studio Code y asegúrate de tener la extensión de Git instalada y activada.
+
 
 2. Abre el repositorio en el que deseas trabajar.
 
