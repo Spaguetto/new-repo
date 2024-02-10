@@ -3,6 +3,14 @@
 
 console.log('Saludos del profe!');
 
+risthian-quin
 // cristhian quna 
 
 console.log("Estudiante de desarrollo de software");
+
+
+// mi nombre
+
+console.log('Daniel Stiven Diaz');
+
+> master
