@@ -3,3 +3,6 @@
 
 console.log('Saludos del profe!');
 
+// Tu nombre
+
+console.log("Walter Quintero Cañas");
