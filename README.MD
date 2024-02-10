@@ -54,35 +54,29 @@ Esta guía te proporcionará los pasos necesarios para utilizar Git en Visual St
 
 1. Una vez que hayas terminado de trabajar en tu rama y estés listo para fusionar tus cambios con la rama principal, abre la sección de control de origen en Visual Studio Code.
 
-   ![Paso 1](imagenes/paso1-3.png)
 
 2. Haz clic en el icono de los cambios.
 
-   ![Paso 2](imagenes/paso2-3.png)
+
 
 3. Selecciona los archivos que deseas incluir en tu Pull Request.
 
-   ![Paso 3](imagenes/paso3-3.png)
+
 
 4. Ingresa un mensaje descriptivo para tu commit y presiona Enter.
 
-   ![Paso 4](imagenes/paso4-3.png)
 
 5. Haz clic en "Publish changes" (Publicar cambios) para enviar tus cambios a GitHub.
 
-   ![Paso 5](imagenes/paso5-3.png)
 
 6. Ve a tu repositorio en GitHub y selecciona la pestaña "Pull Requests" (Solicitudes de extracción).
 
-   ![Paso 6](imagenes/paso6-3.png)
 
 7. Haz clic en el botón "New pull request" (Nueva solicitud de extracción).
 
-   ![Paso 7](imagenes/paso7-3.png)
 
 8. Selecciona las ramas que deseas comparar y haz clic en "Create pull request" (Crear solicitud de extracción).
 
-   ![Paso 8](imagenes/paso8-3.png)
 
 9. ¡Listo! Tu Pull Request ha sido creado y ahora puedes revisarlo y fusionarlo con la rama principal.
 
