@@ -17,7 +17,7 @@ console.log('Daniel Stiven Diaz');
 console.log('Mateo Alejandro Salgado salgado');
 
 
-console.log('Carlos Loaiza');
+console.log('Carlos Andres Loaiza');
 
 
 
