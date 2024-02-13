@@ -1,0 +1,166 @@
+[33mcommit 3f765498c9e4996996608be462bda4561286f44c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miguel <mifergpt@gmail.com>
+Date:   Fri Feb 9 22:18:23 2024 -0500
+
+    Mis primeros pasos en GIT
+
+[33mcommit a9777e44fa276dc6d9f7752e9159a277479a3ee9[m
+Merge: a91e03c befa718
+Author: StikW <86854563+StikW@users.noreply.github.com>
+Date:   Fri Feb 9 19:50:24 2024 -0500
+
+    Merge pull request #11 from Spaguetto/Daniel-Stiven-Diaz
+    
+    Creación Rama y Modificación index
+
+[33mcommit befa7181cdcf1d04e3e8ec3e591a8d4cc13c8a55[m
+Author: StikW <danieldg10122016@gmail.com>
+Date:   Fri Feb 9 19:47:36 2024 -0500
+
+    Creación Rama y Modificación index
+
+[33mcommit a91e03c59afc5068bb9c72ffcaeb2772b7412411[m
+Merge: 52d95d3 6b99a86
+Author: NAKI-94 <155906896+NAKI-94@users.noreply.github.com>
+Date:   Fri Feb 9 19:17:26 2024 -0500
+
+    Merge pull request #4 from Spaguetto/cristhian-quina
+    
+    Cristhian quina
+
+[33mcommit 52d95d3af43252fc726c26a67b3d359559b9855e[m
+Merge: 179be8b 7ffc393
+Author: Spaguetto(Nicolas Jaimes) <48161646+Spaguetto@users.noreply.github.com>
+Date:   Fri Feb 9 19:13:11 2024 -0500
+
+    Merge pull request #1 from Spaguetto/JoanNarvaez
+    
+    Primera Rama Jn
+
+[33mcommit 7ffc39310f87e13b63d3ca254478670ccecf8490[m
+Merge: 3acc537 179be8b
+Author: Spaguetto(Nicolas Jaimes) <48161646+Spaguetto@users.noreply.github.com>
+Date:   Fri Feb 9 19:13:03 2024 -0500
+
+    Merge branch 'master' into JoanNarvaez
+
+[33mcommit 179be8b91c090000dcc05fff495010e00c018b9b[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 19:03:43 2024 -0500
+
+    se agregan cambios base
+
+[33mcommit 3acc5372b2b7d2b6a110e2470fbd99083bb1ba08[m
+Author: joanandres10@gmail.com <joanandres10@gmail.com>
+Date:   Fri Feb 9 19:00:40 2024 -0500
+
+    comentar
+
+[33mcommit 13644f1be69d5576483fc68e02ec1e3ba95b2498[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 19:00:20 2024 -0500
+
+    Reubicadas algunas imagenes
+
+[33mcommit e81bc62eda464559076e8d7c19e99c66dc6e8247[m
+Merge: 948d0f8 37e4971
+Author: Spaguetto(Nicolas Jaimes) <48161646+Spaguetto@users.noreply.github.com>
+Date:   Fri Feb 9 18:59:22 2024 -0500
+
+    Merge pull request #3 from Spaguetto/Profe-Nicolas!
+    
+    Aqui escribes tu comentario descriptivo!
+
+[33mcommit 37e4971a106f0780518f5080c63f341afcd55efa[m[33m ([m[1;31morigin/Profe-Nicolas![m[33m)[m
+Merge: aa5f58f 948d0f8
+Author: Spaguetto(Nicolas Jaimes) <48161646+Spaguetto@users.noreply.github.com>
+Date:   Fri Feb 9 18:59:14 2024 -0500
+
+    Merge branch 'master' into Profe-Nicolas!
+
+[33mcommit aa5f58f1e38044f2fd4933de54ae4cf80968c52f[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 18:57:52 2024 -0500
+
+    Aqui escribes tu comentario descriptivo!
+
+[33mcommit 948d0f887f36d47dec472df7b2f856d05bb96141[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 17:02:41 2024 -0500
+
+    se agregan mas imagenes del paso 1
+
+[33mcommit 5c1423e53363ceb4c8fe05e300c9f081642c420a[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 16:55:04 2024 -0500
+
+    Added img proper config info
+
+[33mcommit 93568e5f8c9bfececa69c25c6d2043deebd16907[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 16:53:46 2024 -0500
+
+    se agrega una primer imagen
+
+[33mcommit 7adf17e822f8ae266a289b31c49af26cdaf5d185[m
+Merge: 6b8fc14 90efc91
+Author: Spaguetto(Nicolas Jaimes) <48161646+Spaguetto@users.noreply.github.com>
+Date:   Fri Feb 9 16:45:35 2024 -0500
+
+    Merge pull request #2 from Spaguetto/Profe-Nicolas!
+    
+    Se agrega la estructura del README
+
+[33mcommit 90efc91b9f03510714951106e5c41cec384696e3[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Fri Feb 9 16:45:14 2024 -0500
+
+    Se agrega la estructura del README
+
+[33mcommit 999b3d45a51c472bab7b66919ef2a35f3e7a1176[m
+Author: joanandres10@gmail.com <joanandres10@gmail.com>
+Date:   Thu Feb 8 19:52:52 2024 -0500
+
+    hola
+
+[33mcommit 2554788a9df52e48268509e984535231f3393620[m
+Author: joanandres10@gmail.com <joanandres10@gmail.com>
+Date:   Thu Feb 8 19:51:55 2024 -0500
+
+    mi primer index
+
+[33mcommit 70439d78b462ae1d3551c01d549502a39f7e1426[m
+Author: joanandres10@gmail.com <joanandres10@gmail.com>
+Date:   Thu Feb 8 19:51:05 2024 -0500
+
+    mi primera index.html
+
+[33mcommit 6b99a86d57dc17308e455fec752e9c0abc3c76c3[m
+Author: NAKI-94 <quina.dev94@gmail.com>
+Date:   Thu Feb 8 19:47:38 2024 -0500
+
+    CORRCCIONES DE ORTOGRAFIA!
+
+[33mcommit 476a24dfdffab95fc05e7e733abade626faff80e[m
+Author: NAKI-94 <quina.dev94@gmail.com>
+Date:   Thu Feb 8 19:46:16 2024 -0500
+
+    CREE EL ARCHIVO Y EL COMMIT
+
+[33mcommit 72a85e80c55ccbe0e9fe4a228ccaba07e45b6b36[m
+Author: joanandres10@gmail.com <joanandres10@gmail.com>
+Date:   Thu Feb 8 19:46:09 2024 -0500
+
+    Primera Rama Jn
+
+[33mcommit 6b8fc143d24a92a564934d872b959696d2bc14f0[m[33m ([m[1;31morigin/JoseRuiz[m[33m, [m[1;31morigin/Carlos_Loaiza[m[33m)[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Thu Feb 8 19:30:53 2024 -0500
+
+    agrego cambios readme
+
+[33mcommit 88c474653a002699a28971cc446782dc97198579[m
+Author: Spaguetto <andres.montoya@parrolabs.com>
+Date:   Thu Feb 8 19:28:19 2024 -0500
+
+    Primer comentario (Comentario del profe)
