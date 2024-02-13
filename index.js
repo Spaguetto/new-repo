@@ -13,8 +13,4 @@ console.log("Estudiante de desarrollo de software");
 
 console.log('Daniel Stiven Diaz');
 
-
-console.log('Mateo Alejandro Salgado salgado');
-
 > master
-
