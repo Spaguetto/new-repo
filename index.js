@@ -13,14 +13,7 @@ console.log("Estudiante de desarrollo de software");
 
 console.log('Daniel Stiven Diaz');
 
-<<<<<<< HEAD
-
-console.log('Mateo Alejandro Salgado salgado');
-
+console.log('Mateo Alejandro Salgado');
 
 console.log('Carlos Loaiza');
-
-
-
-=======
 
