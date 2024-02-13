@@ -5,12 +5,11 @@ console.log('Saludos del profe!');
 
 
 
-//Juan Camilo Mendoza
+
+console.log("Saludos Profe, mi nombre es Robert Delgado, un gusto!");
+
 
 console.log("Juan Camilo Mendoza")
-
-walterquinteroc
-// Tu nombre
 
 console.log("Walter Quintero Cañas");
 
@@ -23,8 +22,6 @@ console.log("Prueba commit solo");
 
 //Joan Narvaez
 console.log('profe este es mi console.log');
-
-
 
 risthian-quin
 // cristhian quna 
@@ -45,7 +42,6 @@ console.log("Estudiante en Desarrollo WEB");
 
 
 console.log('Mateo Alejandro Salgado salgado');
-
 
 // MAteo Alejandro
 console.log('Mateo Alejandro Salgado salgado');
