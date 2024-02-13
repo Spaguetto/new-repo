@@ -1,5 +1,7 @@
 //En este archivo todos vamos a escribir un console.log!
 
+console.log("Saludos del profe!");
+
 
 console.log('Saludos del profe!');
 
@@ -21,9 +23,6 @@ console.log("Prueba commit solo");
 // Final Commit Walter quintero Cañas}
 
 
-
-
-
 //Joan Narvaez
 console.log('profe este es mi console.log');
 
@@ -32,8 +31,13 @@ risthian-quin
 
 console.log("Estudiante de desarrollo de software");
 
-
 // mi nombre
+
+console.log("Daniel Stiven Diaz");
+
+console.log("Mateo Alejandro Salgado salgado");
+
+console.log("Carlos Loaiza");
 
 console.log('Daniel Stiven Diaz');
 
@@ -53,3 +57,5 @@ console.log('Mateo Alejandro Salgado salgado');
 
 console.log('Carlos Loaiza');
 
+
+alert("Hola a todos!, al profe le gusta el queso");
