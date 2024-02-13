@@ -3,8 +3,9 @@
 
 console.log('Saludos del profe!');
 
+//Brayder jaramillo
 
-
+console.log("estudiante de programacion")
 
 console.log("Saludos Profe, mi nombre es Robert Delgado, un gusto!");
 
@@ -48,6 +49,4 @@ console.log('Mateo Alejandro Salgado salgado');
 
 
 console.log('Carlos Loaiza');
-
- master
 
