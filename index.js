@@ -57,5 +57,7 @@ console.log('Mateo Alejandro Salgado salgado');
 
 console.log('Carlos Loaiza');
 
+console.log ('Carol Marcela Ramirez');
+
 
 alert("Hola a todos!, al profe le gusta el queso");
