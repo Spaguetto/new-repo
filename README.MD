@@ -2,6 +2,10 @@
 
 Esta guía te proporcionará los pasos necesarios para utilizar Git en Visual Studio Code, incluyendo la creación de nuevas ramas y la realización de Pull Requests...
 
+Rellena el siguiente formulario!
+
+https://docs.google.com/forms/d/1eK1m_N7ZVfEAJ_8vcdIjpkKvV82UP97A0Fj_sCbpoow/edit?pli=1
+
 ## Crear una Nueva Rama
 
 
